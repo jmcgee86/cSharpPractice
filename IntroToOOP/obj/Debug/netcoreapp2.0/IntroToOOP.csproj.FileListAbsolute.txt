@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/bin/Debug/netcoreapp2.0/IntroToOOP.deps.json
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/bin/Debug/netcoreapp2.0/IntroToOOP.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/bin/Debug/netcoreapp2.0/IntroToOOP.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/bin/Debug/netcoreapp2.0/IntroToOOP.dll
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/bin/Debug/netcoreapp2.0/IntroToOOP.pdb
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/obj/Debug/netcoreapp2.0/IntroToOOP.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/obj/Debug/netcoreapp2.0/IntroToOOP.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/obj/Debug/netcoreapp2.0/IntroToOOP.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/obj/Debug/netcoreapp2.0/IntroToOOP.dll
+/Users/jmcgee/Documents/cSharpPractice/IntroToOOP/obj/Debug/netcoreapp2.0/IntroToOOP.pdb
