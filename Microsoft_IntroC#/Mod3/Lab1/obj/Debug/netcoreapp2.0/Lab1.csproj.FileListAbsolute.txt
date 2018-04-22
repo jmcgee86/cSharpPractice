@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/bin/Debug/netcoreapp2.0/Lab1.deps.json
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/bin/Debug/netcoreapp2.0/Lab1.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/bin/Debug/netcoreapp2.0/Lab1.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/bin/Debug/netcoreapp2.0/Lab1.dll
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/bin/Debug/netcoreapp2.0/Lab1.pdb
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/obj/Debug/netcoreapp2.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/obj/Debug/netcoreapp2.0/Lab1.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/obj/Debug/netcoreapp2.0/Lab1.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/obj/Debug/netcoreapp2.0/Lab1.dll
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_IntroC#/Mod3/Lab1/obj/Debug/netcoreapp2.0/Lab1.pdb
