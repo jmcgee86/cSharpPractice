@@ -6,12 +6,10 @@ namespace CarExample
     {
         static void Main(string[] args)
         {
-            var car1 = new Car ();
-            car1.color = "Red";
-            car1.manufacturer = "Toyota";
-            var saloonCar1 = new SaloonCar (2);
-            var saloonCar2 = new SaloonCar (3, "Nissan");
-            var saloonCar3 = new SaloonCar (4, "Ford", "purple");
+            Car car1 = new Car ("Red", "Toyota");
+            SaloonCar saloonCar1 = new SaloonCar (2);
+            SaloonCar saloonCar2 = new SaloonCar (3, "Nissan");
+            SaloonCar saloonCar3 = new SaloonCar (4, "Ford", "purple");
             Console.WriteLine("The car is a: " + car1.color + " " + car1.manufacturer);
             Console.WriteLine("The first saloon car has " + saloonCar1.numberOfSeats + " seats");
             Console.WriteLine("The second saloon car has " + saloonCar2.numberOfSeats + " seats " + saloonCar2.manufacturer);
@@ -23,8 +21,9 @@ namespace CarExample
 
     public class Car
     {
-        public Car (){
-
+        public Car (string _color = null, string _manufacturer = null){
+            this.color = _color;
+            this.manufacturer = _manufacturer;
         }
         public string color {get; set;}
         public string manufacturer {get; set;}

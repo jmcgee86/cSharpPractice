@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/bin/Debug/netcoreapp2.0/Lab3.deps.json
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/bin/Debug/netcoreapp2.0/Lab3.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/bin/Debug/netcoreapp2.0/Lab3.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/bin/Debug/netcoreapp2.0/Lab3.dll
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/bin/Debug/netcoreapp2.0/Lab3.pdb
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/obj/Debug/netcoreapp2.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/obj/Debug/netcoreapp2.0/Lab3.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/obj/Debug/netcoreapp2.0/Lab3.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/obj/Debug/netcoreapp2.0/Lab3.dll
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/Lab3/obj/Debug/netcoreapp2.0/Lab3.pdb

@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/bin/Debug/netcoreapp2.0/SelfAssessment.deps.json
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/bin/Debug/netcoreapp2.0/SelfAssessment.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/bin/Debug/netcoreapp2.0/SelfAssessment.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/bin/Debug/netcoreapp2.0/SelfAssessment.dll
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/bin/Debug/netcoreapp2.0/SelfAssessment.pdb
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/obj/Debug/netcoreapp2.0/SelfAssessment.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/obj/Debug/netcoreapp2.0/SelfAssessment.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/obj/Debug/netcoreapp2.0/SelfAssessment.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/obj/Debug/netcoreapp2.0/SelfAssessment.dll
+/Users/jmcgee/Documents/cSharpPractice/Microsoft_OOPinC#/Module1/SelfAssessment/obj/Debug/netcoreapp2.0/SelfAssessment.pdb
