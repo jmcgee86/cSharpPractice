@@ -23,7 +23,10 @@ namespace SelfAssessment
 
             Console.WriteLine("The program of {0} offers a {1}", schoolProgram1.programName, schoolProgram1.degrees[0].degree);
             Console.WriteLine("The {0} program offers a great course called {1}", schoolProgram1.degrees[0].degree, bachelors.courses[0].course);
-            Console.WriteLine("There are {0} students in the class and it is taught by {1}", Student.studentCount, course1.teachers[0].firstName);
+            Console.WriteLine("There are {0} students in the class and it is taught by {1} {2}", Student.studentCount, course1.teachers[0].firstName, course1.teachers[0].lastName);
+            Console.WriteLine(course1.students[2].takeTest());
+            Console.WriteLine(course1.students[1].takeTest());
+            Console.WriteLine(course1.teachers[0].gradeTest());        
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SelfAssessment
 {
-    public class Student : Person
+    internal class Student : Person
     {
         public static int studentCount = 0;
 
@@ -49,6 +49,11 @@ namespace SelfAssessment
         public Student()
         {
             studentCount++;
+        }
+
+        public String takeTest()
+        {
+            return this.firstName + " is taking a test";
         }
             
     }

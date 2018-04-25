@@ -7,14 +7,58 @@ using System.Threading.Tasks;
 namespace SelfAssessment
 {
 
-    public class Person
+    abstract class Person
     {
-        public string firstName{get; set;}
-        public string lastName{get; set;}
+        private string _firstName;
+        private string _lastName;
+        private string _sex;
+        private int _age;
+        public string firstName
+        {
+            get
+            {
+                return _firstName;
+            } 
+            set
+            {
+                _firstName = value;
+            }
+        }
+        public string lastName
+        {
+            get
+            {
+                return _lastName;
+            } 
+            set
+            {
+                _lastName = value;
+            }
+        }
 
-        public string sex {get;set;}
+        public string sex 
+        {
+            get
+            {
+                return _sex;
+            }
+            set
+            {
+                _sex = value;
+            }
+        }
 
-        public int age {get; set;}
+        public int age 
+        {
+            get
+            {
+                return _age;
+            } 
+            set
+            {
+                _age = value;
+            }
+        }
 
 
 

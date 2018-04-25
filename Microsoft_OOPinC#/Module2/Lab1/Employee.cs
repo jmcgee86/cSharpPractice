@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public class Employee
+    abstract class Employee
     {
 
         // creates interger variable called "employeeCount" and assigns the value to 1
@@ -79,10 +79,7 @@ namespace Lab1
             return this.ID + " " + this.Name;
         }
         // This method returns the employee's ID and Name and confirms that the employee is in the system
-        public virtual String employeeStatus()
-        {
-            return toString() + " is in the company's system";
-        }
+        public abstract String employeeStatus();
     }
 
 }

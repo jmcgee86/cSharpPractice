@@ -10,10 +10,10 @@ namespace SelfAssessment
     {
 
         // public Student[] students = new Student[Student.studentCount + 1];
-        public Student[] students = new Student[5];
+        internal Student[] students = new Student[5];
 
         //public Teacher[] teachers = new Teacher[Teacher.teacherCount + 1];
-        public Teacher[] teachers = new Teacher[5];
+        internal Teacher[] teachers = new Teacher[5];
 
         public string course {get; set;}
 

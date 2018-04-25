@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace SelfAssessment
 {
 
-        public class Teacher : Person
+       internal class Teacher : Person
         {
         public static int teacherCount = 0;
    
@@ -43,6 +43,12 @@ namespace SelfAssessment
             this.lastName = _lname;
 
             teacherCount++;
+        }
+
+        public String gradeTest()
+        {
+            //Console.WriteLine(this.firstName + " is grading the student tests");
+            return this.firstName + " is grading the tests";
         }
     }
 }
