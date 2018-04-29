@@ -30,7 +30,8 @@ namespace SelfAssessment
             Console.WriteLine("There are {0} students in the class and it is taught by {1} {2}", Student.studentCount, course1.teachers[0].firstName, course1.teachers[0].lastName);
             Console.WriteLine(course1.students[2].takeTest());
             Console.WriteLine(course1.students[1].takeTest());
-            Console.WriteLine(course1.teachers[0].gradeTest());        
+            Console.WriteLine(course1.teachers[0].gradeTest());
+            GC.Collect();        
         }
     }
 }
