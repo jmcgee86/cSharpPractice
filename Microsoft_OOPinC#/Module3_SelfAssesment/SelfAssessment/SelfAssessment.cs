@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SelfAssessment
+namespace Mod3_SelfAssessment
 {
     class Program
     {

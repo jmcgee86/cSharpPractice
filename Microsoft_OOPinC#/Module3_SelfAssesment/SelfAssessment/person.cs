@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace SelfAssessment
+namespace Mod3_SelfAssessment
 {
 
     abstract class Person : IDisposable

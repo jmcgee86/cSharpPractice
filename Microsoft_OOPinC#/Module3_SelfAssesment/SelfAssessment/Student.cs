@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SelfAssessment
+namespace Mod3_SelfAssessment
 {
     internal class Student : Person
     {
