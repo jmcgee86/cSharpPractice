@@ -1,0 +1,11 @@
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/bin/Debug/netcoreapp2.1/UnderstandingLinq.deps.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/bin/Debug/netcoreapp2.1/UnderstandingLinq.runtimeconfig.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/bin/Debug/netcoreapp2.1/UnderstandingLinq.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/bin/Debug/netcoreapp2.1/UnderstandingLinq.dll
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/bin/Debug/netcoreapp2.1/UnderstandingLinq.pdb
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/obj/Debug/netcoreapp2.1/UnderstandingLinq.csprojAssemblyReference.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/obj/Debug/netcoreapp2.1/UnderstandingLinq.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/obj/Debug/netcoreapp2.1/UnderstandingLinq.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/obj/Debug/netcoreapp2.1/UnderstandingLinq.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/obj/Debug/netcoreapp2.1/UnderstandingLinq.dll
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/UnderstandingLinq/obj/Debug/netcoreapp2.1/UnderstandingLinq.pdb
