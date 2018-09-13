@@ -1,0 +1,11 @@
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/bin/Debug/netcoreapp2.1/Collections.deps.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/bin/Debug/netcoreapp2.1/Collections.runtimeconfig.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/bin/Debug/netcoreapp2.1/Collections.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/bin/Debug/netcoreapp2.1/Collections.dll
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/bin/Debug/netcoreapp2.1/Collections.pdb
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/obj/Debug/netcoreapp2.1/Collections.csprojAssemblyReference.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/obj/Debug/netcoreapp2.1/Collections.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/obj/Debug/netcoreapp2.1/Collections.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/obj/Debug/netcoreapp2.1/Collections.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/obj/Debug/netcoreapp2.1/Collections.dll
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Collections/obj/Debug/netcoreapp2.1/Collections.pdb
