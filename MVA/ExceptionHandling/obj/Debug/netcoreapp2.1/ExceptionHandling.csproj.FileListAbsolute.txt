@@ -1,0 +1,11 @@
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.csprojAssemblyReference.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.deps.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.runtimeconfig.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.dll
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.pdb
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.dll
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.pdb
