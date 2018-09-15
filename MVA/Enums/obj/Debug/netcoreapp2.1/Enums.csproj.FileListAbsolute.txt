@@ -1,0 +1,11 @@
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/obj/Debug/netcoreapp2.1/Enums.csprojAssemblyReference.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/obj/Debug/netcoreapp2.1/Enums.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/obj/Debug/netcoreapp2.1/Enums.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/obj/Debug/netcoreapp2.1/Enums.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/bin/Debug/netcoreapp2.1/Enums.deps.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/bin/Debug/netcoreapp2.1/Enums.runtimeconfig.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/bin/Debug/netcoreapp2.1/Enums.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/bin/Debug/netcoreapp2.1/Enums.dll
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/bin/Debug/netcoreapp2.1/Enums.pdb
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/obj/Debug/netcoreapp2.1/Enums.dll
+/Users/jmcgee/Documents/cSharp/cSharpPractice/MVA/Enums/obj/Debug/netcoreapp2.1/Enums.pdb
